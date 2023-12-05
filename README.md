@@ -36,7 +36,7 @@ I am a passionate **Frontend Developer** specializing in creating visually appea
 - 📧 : jpsahanchathumina@gmail.com
 - 🏠 : 32/29/01, Gonagolla, Ampara, Sri Lanka Postal Code: 32064
 
-### 🅵🅾🅻🅻🅾🆆  🅼🅴
+### 🅵🅾🅻🅻🅾🆆__🅼🅴
 - 👔: https://www.linkedin.com/in/sahan-chathumina-a19b47250/
 - 🟢: https://whatsapp.com/channel/0029VaF0lagGk1FzzPlTXn2o
 
