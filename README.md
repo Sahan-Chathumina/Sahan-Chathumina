@@ -10,8 +10,9 @@
 I am a passionate **Frontend Developer** specializing in creating visually appealing and user-friendly websites. My expertise in **WordPress Development** enables me to deliver customized and dynamic web solutions. With a solid foundation in HTML, CSS, and JavaScript, along with knowledge of React and Node.js, I am equipped to handle diverse web development challenges.
 
 ### 🎓 Education
-- Full-Stack Developer course at the University of Moratuwa
 - ICT Technician (NVQ LEVEL 4) at the National Youth Training Centre 
+- Full-Stack Developer course at the University of Moratuwa
+- Pearson BTEC HND in Computing (Software Engineering)
 
 ### 💼 Work Experience
 - **ICT Technician**
